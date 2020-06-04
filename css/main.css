@@ -1,14 +1,14 @@
 html {
   font-family: Lora, serif;
-  coloe:#fff;
+  color: #fff;
 }
 
 .masthead {
-background-color: #588477;
-background-image: url("../images/leaf-bg.svg");
-background-size: 64px;
-border-bottom: 3px solid #2d5a4d;
-border-top: 3px solid #2d5a3d;
+  background-color: #588477;
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
+  border-bottom: 3px solid #2d5a4d;
+  border-top: 3px solid #2d5a3d;
 }
 
 .logo {
